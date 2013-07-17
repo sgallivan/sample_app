@@ -1,0 +1,13 @@
+git add
+git commit -m "Comment"
+
+# if on a branch
+git checkout master
+git merger BRANCH
+
+
+
+# finally
+git push
+git push heroku
+
